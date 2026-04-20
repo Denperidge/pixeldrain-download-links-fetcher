@@ -1,0 +1,12 @@
+{
+  "name": "pixeldrain-download-links",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node pixeldrain-download-links.js"
+  },
+  "author": "Denperidge",
+  "license": "Unlicense"
+}
